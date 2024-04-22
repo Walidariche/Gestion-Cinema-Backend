@@ -16,5 +16,5 @@
 <li>MVC Architecture</li>
 <li>MySQL</li>
 </ul>
-<h1>Packages and Classes</h1>
+<h1>Visualizing Package Components</h1>
 <img src="captures/img.png">
